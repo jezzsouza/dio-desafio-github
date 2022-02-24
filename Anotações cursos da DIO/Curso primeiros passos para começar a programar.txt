@@ -1,0 +1,252 @@
+Primeiros passos para começar a programar
+
+Tema 1 - História da computação
+
+História da computação:
+
+A ciência da computação é uma área de avanços cumulativos:
+
+Base em pesquisas anteriores:
+
+A cada nova descoberta, ela acaba originando outra.
+
+Novos paradigmas:
+
+É uma resolução, uma maneira de resolver problemas.
+
+Evolução:
+
+1° Hardware: foram construídos primeiro os hardwares/equipamentos que é o fundamento, pois iremos programar com base no que o hardware oferece.
+2º Software.
+
+Objetivos:
+
+Minimizar esforços;
+Otimizar recursos.
+
+Instrumentos de cálculo:
+
+Ábaco:
+Um dos primeiros dispositivos de cálculo;
+Operações básicas com 12 inteiros;
+Babilônia - 3mil a.C.
+
+Quadrante:
+
+Cálculo Atômicos - Navegação;
+Ptolomeu Babilônia;
+Desenvolvido no século XVI.
+
+Surgimento da ciência da computação:
+
+Surgiu durante a guerra;
+Surgimento dos primeiros computadores;
+Avanço exponencial.
+
+Berço da computação
+Pai da computação: Alan Turing.
+
+Início da revolução:
+
+Algoritmo:
+
+Matemática básica;
+Noção matemática
+
+Berço da computação - Alan Turing - Perfil:
+1912 a 1954;
+Cambridge;
+Matemática. 
+
+Tento caracterizar operações computáveis.
+Máquina baseada em sistema formal.
+Formulando o conceito de animal.
+
+Máquina de Turing;
+
+Símbolos processados por computação
+
+•	Símbolos -> Ações;
+•	Operações -> Estado do sistema.
+
+Alan Turing também teve participação decifrando códigos de Guerra.
+•	1940;
+•	Escola de cifras e códigos - Inglaterra;
+•	Com mais 9 matemáticos;
+•	Notoriedades pós-guerra - Criaram a máquina do enigma.
+
+Nos Estados Unidos -EUA, junto com Von Newman e Claude Shannon, ambos matemáticos, criam o Projeto Delilab. Um decodificador de voz.
+
+Aplicabilidade da booleana
+
+Computadores digitais                           
+Conceitos Lógico
+
+Circuitos elétricos - Base dos computadores atuais.
+Em 1948 fundamentou os conceitos  da compactação de dados e da criptografia.
+
+Von Newman teve um papel vasto dentro da computação no desenvolvimento da construção de hardware,
+arquitetura, programação, teoria computacional e computação científica.
+
+Arquitetura de Von Newman
+Espaço de memória:
+
+•	Dados;
+•	Programa.
+
+Participou da criação do primeiro computador digital - Automatic Computing Engine – ACE.
+
+Em 1950 inseriu uma questão: As máquinas podem pensar? - Conceito de Inteligência Artificial.
+
+Alan Turing também se interessou pela área da programação.
+Codificação -> Operações de computador -> Matemática.
+
+Instrumentos computacionais
+
+1 máquina - somava e subtraia - Blaise Pascal.
+máquina - operações básicas - 1820 - Charles Xavier Thomas.
+
+Ideia de programação surge com a criação de um protótipo de madeira e latão - 1822 - Charles Babbage.
+
+Primeira programadora - 1815-1852 - Ada Augusta Lovelace - Filha de poeta - Educada por De Morgan - Criou instruções para calculador analítica; considerado patrona da computação.
+
+Primeiros computadores
+
+1938 - Konrad Zuse criou o computador Z1 - Ele tinha três unidades básicas: memória, controladora e dispositivo p/ cálculo.
+
+ENIAC - primeiro computador de fato, que pode ser programável.
+
+Tema 2 - Introdução à lógica de programação
+
+Lógica: é a organização e planejamento das instruções, assertivas em um animal, a fim de viabilizar a implantação de um programa.
+
+Técnica Estruturada - Modelo de desenvolvimento e resolução
+
+Objetivo: 
+
+•	Escrita;            ->Programa
+•	Entendimento;
+•	Validação;
+•	Manutenção.    ->Facilita
+
+Técnica modular: controlada por um conjunto de regras.
+
+Modelo padrão;
+
+Dados de entrada  -> Processo de transformação -> Dados de saída.
+
+                                              Metas
+                           ↙                     ↓                        
+        Simplificação       Decompor o problema        Verificação do módulo
+
+Tema 3 - Algoritmo
+
+O computador tem como objetivo  o processamento de dados.
+Algoritmos são um processo de resolução de problemas "atep by step"(passo a passo) utilizando instruções.
+
+Detalhamento para o PC
+instruções:
+O que precisa ser feito?
+Qual a ordem de execução?
+
+Desenvolvimento do programa
+
+Instruções 
+Análise: estudo e definição dos dados de entrada e saída.
+
+Algoritmo
+Uso: descreve o problema por meio de ferramentas narrativas - simples entendimento - , fluxogramas - utilização de símbolos pré-definidos - ou pseudocódigo - estrutura e símbolo .
+
+Programa
+Codificação: o algoritmo é codificado de acordo com a linguagem de programação escolhida
+
+Como construir um algoritmo?
+
+Compreensão do problema - pontos mais importantes;
+Definição dados de entrada - dados fornecidos e cenário;
+Definir processamento - cálculos e restrições;
+Definir dados de saída - após processamento;
+Utilizar um método de construção - construção e refinação do algoritmo;
+Teste e diagnóstico.
+
+Tema 4 - Fundamentos dos algoritmos
+
+A função do PC é informação através de:
+
+Dados: problemas entregues ao PC ;
+Instruções: são dadas para PC e serão tratadas e processadas.
+
+Tipos de dados
+
+Numéricos:
+Inteiros - 0, 1 , 5, 50, 800,....
+                 -58, -50, -800, -5...
+
+Reais - 5, 95, 10, ....
+             9.10, 5.09,  6.12, .... 
+              -30, -50, -45,.....
+
+Caracteres: A, 9, !, ?, #,...
+
+Lógico - Booleano
+
+Verdadeiro - 1;
+Falso - 0.
+
+Papéis de uma variável:
+Ação - modificação de estado;
+Controle - vigiada.
+
+Instruções primitivas são instruções básicas dentro do algoritmo.
+
+Cálculo matemático, variáveis e constantes, são feitos utilizando operadores. 
+Tipos de operadores:
+
+Binário - precisa de duas variáveis ou uma variável e uma constante, ou seja, precisa de dois objetos para executar a operação. 
+
+Unário - utilizado para inversão de sinal
+
+Estrutura condicional
+
+Condição - estado de uma pessoa ou coisa.
+Condicional - que expressão, uma condição ou suposição;
+                        contém ou implica uma suposição ou hipótese.
+
+Simples - executa;
+Composta - contém uma condição;
+encadeada - mais de uma condição.
+
+Estrutura de repetição
+
+Enquanto....faça;
+Repita.....até;
+Para.....de.....até.....faça
+
+Entrada/saída
+
+Existem dois tipos de saídas dentro de um programa (algoritmo)
+Saída por interrupção: definida pelos periféricos. Interrompendo a execução do programa e baixando os resultados.
+
+Saída programada: 
+1. Condicional - aguada que o dispositivo esteja preparado para receber a informação
+2. Incondicional - insere os dados independente do estado do dispositivo.
+
+Como o computador entende o programa
+
+Tradução:  
+1. Geração do programa objeto;
+2.Execução do programa objeto.
+
+A linguagem que traduzida é executada mais rápido.
+
+Interpretação:
+1. Programa fonte executado diretamente.
+
+A linguagem que interpretada tem programas menores e maior flexibilidade.
+
+Análises de código
+
+Análise léxica - possui três etapas: 
+1. Particionar - os elementos são particionados e denominados tokens.
+2. Classificar
+3. Eliminar

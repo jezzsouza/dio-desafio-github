@@ -1,0 +1,66 @@
+Comados básicos para navegar no terminal
+
+Listar - dir
+
+Navegar - cd /
+
+Retroceder/voltar nível - cd..
+
+Limpar tela - cls
+
+Autocompletar - tab
+
+Criar pasta - mkdir + nome da pasta
+
+Printa e devolve no terminal o texto passado - echo
+
+Direciona o texto para um arquivo - > (echo + texto + > + texto.txt)
+
+Deletar arquivo - del + nome do arquivo
+
+Deletar pasta - rmdir + nome da pasta + /S /Q
+
+Atalho para navegar no histórico digitado no terminal - ↑.
+
+Mostrar repositórios ocultos - ls -a
+
+Ver estrutura - cd .git/
+
+Configurar o Git - 
+git config --global user.email " "
+git config --global user.name
+
+Verificar arquivos - git status
+
+Verificar configuração - git config --list
+
+Alterar configuração - git config --global --unset user.email + enter, e é só reconfigurar
+
+Subir pasta/projeto para o GitHub
+
+1. Encontrar a pasta
+
+2. entrar/navegar na pasta
+
+3. Iniciar a pasta com o git init
+
+4. Passar o endereço para onde enviar com git remote add origin + endereço
+
+5. Criar um repositório para enviar com git branch -M main
+
+6. Adicionar arquivos com o git add .
+
+7. Comitar a pasta e escrever o que está passando entre" " com o git commit -m + "texto"
+
+8. Empurrar para o Github com o git push -u origin main.
+
+Resolvendo conflitos
+
+Puxar arquivo do Github - git pull origin master
+Depois de resolver o conflito, adiciona o arquivo e commita.
+
+Baixar repositório  clonando - git clone + url pega no github
+Após o clone, os arquivos vem como repositório e não apenas uma pasta simples, significa que dentro do repositório vem uma pasta .git, que contém todo versionamento de código e pra onde esse repositório está apontado. Então deve entra nesse repositório e listar, e ver repositórios ocultos.
+
+Para ver pra onde o repositório está apontado - git remote -v
+
